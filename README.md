@@ -2,7 +2,8 @@
 
 An interactive, Excel-based dashboard visualizing chocolate sales data across countries, teams, and products. Built without VBA, using only advanced Excel features like PivotTables, slicers, and conditional formatting. Ideal for sales teams seeking actionable insights from data.
 
-![Dashboard Preview](Screenshot.png)
+## 📸 Preview
+![Dashboard Preview](https://github.com/SannareddyHemalatha/Awesome_Chocolate_Sales_Analysis/blob/b7411f0d4cd6d0492681ad839339e04224103a84/Screenshot%20(22).png)
 
 ---
 
@@ -55,19 +56,6 @@ Designed for sales teams to:
 
 ---
 
-## 📁 File Structure
-
-📦 Chocolate-Sales-Dashboard
-┣ 📄 Chocolate_Sales_Dashboard.xlsx
-┣ 📄 Screenshot.png
-┗ 📄 README.md
-
-yaml
-Copy
-Edit
-
----
-
 ## 📌 Notes
 
 - 📎 Sample data only – not connected to any external data source
@@ -81,7 +69,3 @@ Edit
 Created as part of a personal Excel project for data visualization and dashboard design.
 
 ---
-
-## 📸 Preview
-
-![Chocolate Sales Dashboard](Screenshot.png)
