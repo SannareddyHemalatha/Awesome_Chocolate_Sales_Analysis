@@ -1,9 +1,9 @@
-# 🍫 Awesome Chocolate Sales Dashboard (Excel)
+# Awesome Chocolate Sales Dashboard (Excel)
 
 An interactive, Excel-based dashboard visualizing chocolate sales data across countries, teams, and products. Built without VBA, using only advanced Excel features like PivotTables, slicers, and conditional formatting. Ideal for sales teams seeking actionable insights from data.
 
 ## 📸 Preview
-![Dashboard Preview](https://github.com/SannareddyHemalatha/Awesome_Chocolate_Sales_Analysis/blob/b7411f0d4cd6d0492681ad839339e04224103a84/Screenshot%20(22).png)
+![Dashboard Preview](https://github.com/SannareddyHemalatha/Awesome_Chocolate_Sales_Analysis/blob/fd2e5e821f0b16475d933e2a843de67efc2bf099/Dashboard%20Preview.png)
 
 ---
 
@@ -12,18 +12,17 @@ An interactive, Excel-based dashboard visualizing chocolate sales data across co
 ✅ **KPI Tiles**:  
 Quick-glance tiles for:
 - Total Sales, Boxes, Shipments, Cost, Profit, and Profit %  
-- Country-wise breakdown with progress indicators
+- Country-wise breakdown for sales and profit%
 
 ✅ **Team-wise Sales Performance**:
 - Choose from 4 teams (Yummies, Delish, Juicies, Tempo)
-- View each team member’s performance: Sales, Profit, Boxes, Shipments
-- Sort by metrics (Sales, Profit %, etc.)
+- we have a bubble chart which tells us team wise sales and profit values
+- View each team member’s performance by Sales, Profit, profit%, and Shipments
 
 ✅ **Product Performance Table**:
 - Analyze products based on sales data
 - Visualize Boxes and Shipments using sparklines
-- Profit indicators via icons
-- Sortable columns
+- Sort the products with sales, profit and other metrics for better understanding the business
 
 ✅ **Category Slicer**:
 - Dynamically filter dashboard by category (Bars, Bites, Other)
@@ -52,17 +51,33 @@ Quick-glance tiles for:
 Designed for sales teams to:
 - Monitor KPIs
 - Evaluate team & product-level performance
+- They will now have the idea for inventory management
 - Make data-driven decisions using only Excel
 
 ---
 
-## 📌 Notes
+## 📈 My Analysis
 
-- 📎 Sample data only – not connected to any external data source
-- 🖥 Best viewed on desktop Excel (may not render fully in Excel Online)
-- 🧪 No VBA/macros used – fully Excel-native features
+📊 KPI Insights with Month-over-Month Growth
 
----
+The dashboard highlights key performance indicators like Total Sales, Profit, and Boxes Sold, alongside Month-over-Month % Change.
+
+Identified a 68% increase in sales from the previous month, helping the sales team recognize a peak seasonal trend.
+
+👥 Team-wise Salesperson Performance Evaluation
+
+- Using interactive filters and sortable columns, sales performance is broken down by team and individual.
+- Sales managers can quickly identify top performers and those below target, aiding in incentive planning and targeted coaching.
+
+🍫 Product Category Performance with Drill-downs
+
+- White chocolate has the highest profit % with 98%
+- Bars category contributes to the highest sales amount of $10.74 m
+- Though the orange choco has just 10% profit,but their boxes sold are highest among other products
+
+This analysis helps both sales team and a products team to make their business decisions.
+
+
 
 ## 🙌 Acknowledgements
 
